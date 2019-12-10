@@ -90,6 +90,8 @@
     <Content Include="fifteen_icon_tg4_icon.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="bn\" />
+    <Folder Include="oj\" />
     <Folder Include="Pictures\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
